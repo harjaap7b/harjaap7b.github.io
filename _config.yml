@@ -1,8 +1,4 @@
-remote_theme: tuur29/pages-themes-cayman
+theme: jekyll-theme-minimal
 title: Harjaap Bhatia
 description: An aspiring Data scientist !
 logo: /images/PXL_20241027_072332455.MP~2.jpg
-show_downloads: true
-darkmode: true
-buttons:
-  github_hide: false

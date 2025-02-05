@@ -1,3 +1,9 @@
 title: Harjaap Bhatia
 description: An aspiring Data scientist !
+buttons:
+  zip_url: https://github.com/harjaap7b
+  zip_title: View GitHub Profile
+  zip_hide: false
+  tar_hide: true
+  github_hide: true
 theme: jekyll-theme-cayman

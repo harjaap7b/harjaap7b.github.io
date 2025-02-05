@@ -3,7 +3,7 @@
 ## Technical Skills
 Python, SQL, TensorFlow, Scikit-learn, Power BI, Excel
 
-### Education
+## Education
 Honors Bachelors in Science - Astronomy and Physics - University Of Toronto
 
 ## Projects

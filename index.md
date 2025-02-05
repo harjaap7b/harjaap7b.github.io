@@ -1,4 +1,4 @@
-## [GitHub Profile](https://github.com/harjaap7b)
+### [GitHub Profile](https://github.com/harjaap7b)
 
 ## Technical Skills
 Python, SQL, TensorFlow, Scikit-learn, Power BI, Excel

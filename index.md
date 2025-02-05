@@ -11,12 +11,12 @@ Honors Bachelors in Science - Astronomy and Physics - University Of Toronto
 ### Project 1: [Classifying Heart Disease](https://github.com/harjaap7b/Classifying-Heart-Disease.git)
 In this project I used the database from the Cleveland Clinic Foundation that extracts data from various patients, such as thier sex, age, BMI etc. to look at if they have heart disease or not. For this I project I used the classic logistic regression classification machine learning algorithim. I also added some PCA analysis at the end to futher deep dive into the data to figure out which features give out the best predictions.
 
-![](/images/randomforests.png)
+![](/images/heartdisease.png)
 
 ### Project 2: [Predicting Employee Productivity using Tree Models](https://github.com/harjaap7b/Classification-Tree)
 In this project I aimed to make use of decision trees and random forests to predict employee productivity in the garment industry. The garment industry is one the largest industries in the 21st century. It is also a highly labour intensive industry, therefore statisfying the huge demand is mostly dependant on the employee productivity and performance. It is highly desirable among decision makers to track and predict the productivity performance of their employees. This project will aim to do just that using the help of random forest and decision tree ML algorithims.
 
-![](/images/northwindtraders.png)
+![](/images/randomforests.png)
 
 ### Project 3: [Northwind traders Project SQL](https://github.com/harjaap7b/Northwind-Traders)
 In this project I analyzed northwind traders which is an international gourmet food distributor. I looked at the Northwind database to do the following: evaluate employee performance to boost productivity, optimzing inventory and marketing strategies by analyzing product sales, looking at the sales growth to see any trends and make forecasts based on the company progress, see client behavior to single out high value clients and offer promotions, and all of this was done with the help of SQL and Python.

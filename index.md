@@ -26,7 +26,7 @@ In this project I used neural networks in TensorFlow to predict listing gains in
 
 ![](/images/IndianIPO.png)
 
-### Project 4: [Credit Card Customer Segmentation](https://github.com/harjaap7b/CreditCard-KMeans)
+### Project 5: [Credit Card Customer Segmentation](https://github.com/harjaap7b/CreditCard-KMeans)
 In this project I imagined that I was working for a credit card company as data scientist with the task of analyzing customer data to segement the population. The dataset contains information about the company's clients which I will use to segment the client population into different types in order to give the marketing team a more targeted approach. It has been decided that I will use the K-Means model to segment the data.
 
 ![](/images/KMeans.png)

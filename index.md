@@ -6,7 +6,7 @@ Honors Bachelors in Science - Astronomy and Physics - University Of Toronto
 
 ## Projects
 
-### Proejct 1: [Stellar Classification](https://github.com/harjaap7b/Stars)
+### Project 1: [Stellar Classification](https://github.com/harjaap7b/Stars)
 In this project I used random forests and neural network algorithims to classify stars. In astronomy classification of astronomical objects is a big subject since there are so many types of objects that can be observed in the night sky. The classification is based soley on their spectral charactersitics, like their redshift. Although there are many more features which come into play which I will dicuss in the project. 
 
 ![](/images/stars.png)

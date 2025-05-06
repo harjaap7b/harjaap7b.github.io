@@ -7,12 +7,12 @@ Honors Bachelors in Science - Astronomy and Physics - University Of Toronto
 ## Projects
 
 ### Project 1: [Stellar Classification](https://github.com/harjaap7b/Stars)
-In this project I used random forests and neural network algorithims to classify stars. In astronomy classification of astronomical objects is a big subject since there are so many types of objects that can be observed in the night sky. The classification is based soley on their spectral charactersitics, like their redshift. Although there are many more features which come into play which I will dicuss in the project. 
+In this project, I used random forests and neural network algorithms to classify stars. In astronomy, the classification of astronomical objects is a big subject since so many types of objects can be observed in the night sky. The classification is based solely on their spectral characteristics, like their redshift. However, many more features come into play, which I will discuss in the project. 
 
 ![](/images/stars.png)
 
 ### Project 2: [Classifying Heart Disease](https://github.com/harjaap7b/Classifying-Heart-Disease.git)
-In this project I used the database from the Cleveland Clinic Foundation that extracts data from various patients, such as thier sex, age, BMI etc. to look at if they have heart disease or not. For this I project I used the classic logistic regression classification machine learning algorithim. I also added some PCA analysis at the end to futher deep dive into the data to figure out which features give out the best predictions.
+In this project I used the database from the Cleveland Clinic Foundation that extracts data from various patients, such as thier sex, age, BMI etc. to look at if they have heart disease or not. For this I project I used the logistic regression classification machine learning algorithim. I also added some PCA analysis at the end to futher deep dive into the data to figure out which features give out the best predictions.
 
 ![](/images/heartdisease.png)
 
@@ -27,7 +27,7 @@ In this project I analyzed northwind traders which is an international gourmet f
 ![](/images/northwindtraders.png)
 
 ### Project 5: [Credit Card Customer Segmentation](https://github.com/harjaap7b/CreditCard-KMeans)
-In this project I imagined that I was working for a credit card company as data scientist with the task of analyzing customer data to segement the population. The dataset contains information about the company's clients which I will use to segment the client population into different types in order to give the marketing team a more targeted approach. It has been decided that I will use the K-Means model to segment the data.
+In this project I imagined that I was working for a credit card company as a data scientist with the task of analyzing customer data to segement the population. The dataset contains information about the company's clients which I will use to segment the client population into different types in order to give the marketing team a more targeted approach. It has been decided that I will use the K-Means model to segment the data.
 
 ![](/images/KMeans.png)
 
